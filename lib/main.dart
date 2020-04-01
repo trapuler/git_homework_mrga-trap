@@ -21,12 +21,9 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-<<<<<<< HEAD
+
       home: MyHomePage(title:'MrgaCro&Trapuler HW'),
 
-=======
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
->>>>>>> MrgaCRO
     );
   }
 }
